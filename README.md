@@ -14,7 +14,7 @@
 
 
 <a href="mailto:sampleforgabriel@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/gabriellima-wav/gabriellima-wav/issues/2#issue-2220928886">
+<img align="center"  height="80" width="80" src="https://github.com/gabriellima-wav/gabriellima-wav/assets/127765401/aeef2a7e-08e9-406d-ac19-69bab26f8aaa">
 </a>
 
 
