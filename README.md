@@ -13,7 +13,7 @@
 </a>
 
 
-<a href="mailto:sampleforgabriel@gmail.com">
+<a href="mailto:cmp.1a.sammpleforgabriel.com">
 <img align="center"  height="80" width="80" src="https://github.com/gabriellima-wav/gabriellima-wav/assets/127765401/aeef2a7e-08e9-406d-ac19-69bab26f8aaa">
 </a>
 
