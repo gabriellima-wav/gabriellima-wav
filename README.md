@@ -8,8 +8,8 @@
 <img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
+<a href="720847907170942977" target="_blank">
+<img align="center" height="80" width="80" src="https://github.com/gabriellima-wav/gabriellima-wav/assets/127765401/e9701109-3608-44c1-9ab0-70dbf0f5ad8e">
 </a>
 
 
