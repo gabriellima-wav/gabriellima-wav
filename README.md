@@ -13,7 +13,7 @@
 </a>
 
 
-<a href="mailto:cmp.1a.sammpleforgabriel.com">
+<a href="mailto:cmp.1a.sampleforgabriel.com">
 <img align="center"  height="80" width="80" src="https://github.com/gabriellima-wav/gabriellima-wav/assets/127765401/aeef2a7e-08e9-406d-ac19-69bab26f8aaa">
 </a>
 
@@ -25,3 +25,6 @@
 </div>
 
 <div align="center" >
+
+![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/gabriellima-wav?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=purple&dark=true) 
+
