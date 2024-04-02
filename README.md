@@ -8,12 +8,12 @@
 <img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 
-<a href="720847907170942977" target="_blank">
+<a href="https://discord.gg/FqQUhQav" target="_blank">
 <img align="center" height="80" width="80" src="https://github.com/gabriellima-wav/gabriellima-wav/assets/127765401/e9701109-3608-44c1-9ab0-70dbf0f5ad8e">
 </a>
 
 
-<a href="mailto:cmp.1a.caroline@gmail.com">
+<a href="mailto:sampleforgabriel@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
