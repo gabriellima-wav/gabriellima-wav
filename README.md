@@ -18,8 +18,8 @@
 </a>
 
 
-<a  href="https://www.linkedin.com/in/carolbarbosa/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+<a  href="https://www.linkedin.com/in/gabriel-lima-a6272126a/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/gabriellima-wav/gabriellima-wav/assets/127765401/5729681b-b4d6-4d19-a8a4-d04da4dbd36c">
 </a>
 
 </div>
