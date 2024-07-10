@@ -13,10 +13,6 @@
 </a>
 
 
-<a href="mailto:cmp.1a.sampleforgabriel.com">
-<img align="center"  height="80" width="80" src="https://github.com/gabriellima-wav/gabriellima-wav/assets/127765401/aeef2a7e-08e9-406d-ac19-69bab26f8aaa">
-</a>
-
 
 <a  href="https://www.linkedin.com/in/gabriel-lima-a6272126a/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/gabriellima-wav/gabriellima-wav/assets/127765401/5729681b-b4d6-4d19-a8a4-d04da4dbd36c">
